@@ -1,0 +1,52 @@
+{
+  "IT": {
+    "sem3": {
+      "subjects": [
+        "ITT201",
+        "ITT203",
+        "ITT205",
+        "HUT200",
+        "MAT203",
+        "MCN201",
+        "ITL201",
+        "ITL203"
+      ]
+    },
+    "sem4": {
+      "subjects": [
+        "ITT202",
+        "ITT204",
+        "ITT206",
+        "EST200",
+        "MAT208",
+        "MCN202",
+        "ITL202",
+        "ITL204"
+      ]
+    },
+    "sem5": {
+      "subjects": [
+        "ITT301",
+        "ITT303",
+        "ITT305",
+        "ITT307",
+        "ITT309",
+        "MCN301",
+        "ITL331",
+        "ITL333"
+      ]
+    },
+    "sem6": {
+      "subjects": [
+        "ITT302",
+        "ITT304",
+        "ITT306",
+        "ITT308",
+        "ELECTIVE",
+        "HUT300",
+        "ITL332",
+        "ITD334"
+      ]
+    }
+  }
+}
